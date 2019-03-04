@@ -1,0 +1,45 @@
+body {
+  font-family: Impact;
+  color: brown;
+}
+
+.asdf {
+  background-color: blue;
+  color: white;
+  font-family: monospace;
+}
+
+.qwer {
+  background-color: violet;
+  margin: 2em;
+  padding: .5em;
+  color: white;
+  border: 5px solid lightgray;
+}
+.container{
+width: 80%;
+margin: auto;
+overflow: hidden;
+}
+
+#navbar{
+  background-color: red;
+}
+#navbar ul{
+padding: 0;
+list-style: none;
+}
+#navbar li{
+display: inline;
+}
+#navbar a{
+color: white;
+text-decoration: none;
+font-size: 17px;
+padding-right: 15px
+}
+.billeder{
+height: 350px;
+width: 350px;
+margin: 10px;
+}
